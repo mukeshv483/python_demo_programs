@@ -1,0 +1,13 @@
+import math
+x=input("Enter the value of x: ")
+y=input("Enter the value of y: ")
+print "acos(x) : ",  math.acos(x)
+print "asin(x) : ",  math.asin(x)
+print "atan(x) : ",  math.atan(x)
+print "atan2(x,y) : ",  math.atan2(x,y)
+print "cos(x) : ",  math.cos(y)
+print "sin(x) : ",  math.sin(x)
+print "tan(x) : ",  math.tan(x)
+print "hypot(x, y) : ",  math.hypot(x, y)
+print "degrees(x) : ",  math.degrees(x)
+print "radians(y) : ",  math.radians(y)
